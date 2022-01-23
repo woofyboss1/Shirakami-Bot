@@ -1,2 +1,3 @@
 # Shirakami-Bot
-shitcode 
+練習用discordbot
+コードはゴミ
