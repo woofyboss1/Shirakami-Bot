@@ -1,5 +1,5 @@
 require 'discordrb'
-bot = Discordrb::Commands::CommandBot.new token: 'OTM0NDQ0NDQ4MjA3NzYxNDU4.YewLNQ.cVeVoJ6I1qyOjqOpsojisg0-VJE', client_id: 934444448207761458,
+bot = Discordrb::Commands::CommandBot.new token: 'Your_token', client_id: your_clientid,
                          prefix:'!'
 #"メッセージ関連はここに
 bot.message(containing: "おは" ) do |event|
