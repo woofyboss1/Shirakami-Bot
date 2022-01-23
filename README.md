@@ -1,0 +1,2 @@
+# Shirakami-Bot
+shitcode 
